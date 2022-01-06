@@ -1,0 +1,36 @@
+This is the Portable Version Of Bangla Dictionary.
+
+Steps for Running it.
+
+
+1.Copy the files from the fonts folder to C:\WINDOWS\Fonts directory.
+
+2.Install the iComplex software from here.  (Nedded for complex script language-- To show u the Bangla word )
+3.install Windows installer 3.1 (Included  With this Software)
+4.Install .Net Framework 3.5  (Included  With this Software)
+5.Install Sql Server compact 3.5 (Included  With this Software)
+
+6.Go to >>> Portable Bangla Dictionary\Application Files\Bangla Dict 7_1_0_1_16  . Double click the icon Bangla Dict 7.exe
+
+7.All Done.
+
+
+
+
+Steps for installing it (It will be installed & will be include in Add/Remove Programs)
+
+
+
+1.Copy the files from the fonts folder to C:\WINDOWS\Fonts directory.
+2.Install the iComplex software from here.  (Nedded for complex script language-- To show u the Bangla word )
+3.Double click the icon Setup.exe . If ur asked to install 3rd party software (Windows installer 3.1, .Net   Framework 3.5 ,SQL server compact) --Select yes.
+4.If it doen't work then Copy the whole folder( Portable Bangla Dictionary ) & paste it in your Desktop & Rename it with the name "New Folder" . After that Double click the icon Setup.exe  Again.
+  <Please note that , if you already have this dictionary installed, then setup will not continue. So u must uninstall it first if u already installed it.>
+
+5.All Done. Enjoy!
+
+
+Any problems...
+Contact  me --01554323393
+Email address - -shakil@allieditbd.com
+

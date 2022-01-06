@@ -1,0 +1,13 @@
+These are the fonts that are Required.
+You can find them from the installation directory.
+
+
+Corbel
+Cambria
+Bangla
+Tahoma
+Calibri
+Verdana
+Franklin Gothic Medium
+Goudi Olde Style
+Consolas
